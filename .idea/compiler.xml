@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="seckill" />
+        <module name="seckill2" />
+        <module name="seckill3" />
+        <module name="seckill4" />
+        <module name="seckill6" />
+        <module name="springboot_demo2" />
+        <module name="springboot_helloworld_demo1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="seckill" target="1.8" />
+      <module name="seckill2" target="1.8" />
+      <module name="seckill3" target="1.8" />
+      <module name="seckill4" target="1.8" />
+      <module name="seckill4 (1)" target="1.8" />
+      <module name="seckill5" target="1.6" />
+      <module name="seckill6" target="1.8" />
+      <module name="springboot_demo2" target="1.8" />
+      <module name="springboot_helloworld_demo1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
